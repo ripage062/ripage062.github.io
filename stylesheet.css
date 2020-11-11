@@ -1,3 +1,15 @@
 .title {
     color: #02ccba;
   }
+.top_message{
+    color : blue
+}
+.food_menu {
+    padding-top:20px
+}
+
+.detoki_menu{
+    padding-top:20px
+    float: right
+}
+
